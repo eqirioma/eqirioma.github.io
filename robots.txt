@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eqirioma.github.io/gsU/sitemap_index.txt
+Sitemap: https://eqirioma.github.io/idh/sitemap_index.txt
+Sitemap: https://eqirioma.github.io/pXQ/sitemap_index.txt
+Sitemap: https://eqirioma.github.io/qMj/sitemap_index.txt
